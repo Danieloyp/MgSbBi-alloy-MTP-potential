@@ -1,9 +1,7 @@
 # MgSbBi-alloy-MTP-potential
-data set for fitting MgSbBi alloy MTP potential
+Data sets for fitting MgSbBi alloy MTP potential.
 
 # Moment Tensor Potential
-
-
 This repository contains Moment Tensor Potential (MTP) models for 
 Mg<sub>3</sub>(Sb<sub>1-x</sub>Bi<sub>x</sub>)<sub>2</sub> thermoelectric material, including the corresponding parameters and training data used to develop the models. For MTP model training and potential generations, please use the mlip package [https://mlip.skoltech.ru/download/](https://mlip.skoltech.ru/download/).
 
