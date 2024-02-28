@@ -1,4 +1,4 @@
-# These are the data sets used to fit Mg$_{3}$(Sb$_{1-x}$Bi$_{x}$)$_{2}$ alloy MTP potential.
+# These are the data sets used to fit Mg3(Sb1-xBix)2 alloy MTP potential.
 
 ## training data sets:
 * alloy_relaxed.json
