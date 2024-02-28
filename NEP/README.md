@@ -1,5 +1,5 @@
 # MgSbBi-alloy-NEP-potential
-Here we provide the Neuroevolution-potential(NEP)[^1], which is fitted using the same dataset as the MTP. potential.
+Here we provide the Neuroevolution-potential(NEP)[^1], the data set used for fitting can be found in MTP/training.
 ## MC/MD
 The MCMD branch includes input files for using LAMMPS to simulate the solute partitioning behaviour of Mg<sub>3</sub>(Sb<sub> 0.75</sub>Bi<sub>0.25</sub>)<sub>2</sub> structure with a twist grain boundarie.
 ## NEMD
